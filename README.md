@@ -26,9 +26,8 @@
 ### :books: Learning
 
 #### I'm currently learning:
-- [![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
-- [![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)](https://www.android.com/)
-- [![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter)](https://flutter.dev/)
+- [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
+- [![React Native](https://img.shields.io/badge/-React%20Native-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactnative.dev/)
 
 ---
 
