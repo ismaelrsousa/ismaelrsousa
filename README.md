@@ -26,8 +26,8 @@
 ### :books: Learning
 
 #### I'm currently learning:
-- [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
-- [![React Native](https://img.shields.io/badge/-React%20Native-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactnative.dev/)
+- [![ReactJS](https://img.shields.io/badge/-ReactJS-%23000?style=flat-square&logo=react&logoColor=61dafb)](https://reactjs.org/)
+- [![React Native](https://img.shields.io/badge/-React%20Native-%23000?style=flat-square&logo=react&logoColor=61dafb)](https://reactnative.dev/)
 
 ---
 
