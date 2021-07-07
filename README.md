@@ -16,7 +16,7 @@
 [![SCSS](https://img.shields.io/badge/-SCSS3-%23c76494?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
 [![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/-Laravel-%23f72c1f?style=flat-square&logo=laravel&logoColor=ffffff)](https://laravel.com/)
-[![WordPress](https://img.shields.io/badge/-WordPress-%2321759b?style=flat-square&logo=wordpress&logoColor=ffffff)](https://laravel.com/)
+[![WordPress](https://img.shields.io/badge/-WordPress-%2321759b?style=flat-square&logo=wordpress&logoColor=ffffff)](http://wordpress.org/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React%20Native-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactnative.dev/)
 [![Git](https://img.shields.io/badge/-Git-%23e84e31?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
