@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Ismael Sousa_**
 
 #### I'm Front End Developer at [@kbrtec](https://www.kbrtec.com.br/)
-#### To know more about me and my work, visit my [Portfolio](https://ismaelrsousa.github.io/novo-portfolio) website
+#### To know more about me and my work, visit my [Portfolio](https://ismaelrsousa.github.io/novo-portfolio) website (in development)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ismaelrsousa)](https://github.com/ismaelrsousa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelrsousa/)](https://www.linkedin.com/in/ismaelrsousa/)
