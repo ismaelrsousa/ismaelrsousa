@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Ismael Sousa_**
+### Hi there 👋, I'm **_Ismael Sousa_**
 
 #### I'm Front End Developer at [@kbrtec](https://www.kbrtec.com.br/)
 #### To know more about me and my work, visit my [Portfolio](https://ismaelrsousa.github.io/novo-portfolio) website (in development)
