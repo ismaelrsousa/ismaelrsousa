@@ -22,6 +22,7 @@
 [![React Native](https://img.shields.io/badge/-React%20Native-%2361dafb?style=round-square&logo=react&logoColor=000000)](https://reactnative.dev/)
 [![.NET](https://img.shields.io/badge/-.NET-5027d5?style=round-square&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/)
 [![Angular](https://img.shields.io/badge/-Angular-dd0031?style=round-square&logo=angular&logoColor=ffffff)](https://angular.io/)
+[![VueJS](https://img.shields.io/badge/-VueJS-42b883?style=round-square&logo=vuedotjs&logoColor=ffffff)]([https://angular.io/](https://vuejs.org/))
 [![Git](https://img.shields.io/badge/-Git-%23e84e31?style=round-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
 
 ---
