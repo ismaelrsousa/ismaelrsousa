@@ -34,15 +34,3 @@
 - [![.NET](https://img.shields.io/badge/-.NET-5027d5?style=round-square&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/)
 
 ---
-
-<table border="3">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelrsousa&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-    </td>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/?username=ismaelrsousa&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-  
