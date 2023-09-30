@@ -1,4 +1,4 @@
-### Hi there 👋, I'm **_Ismael Sousa_**
+## Hi there 👋, I'm **_Ismael Sousa_**
 
 #### I'm Full Stack Analyst at [T2S](https://www.t2s.com.br/)
 #### To know more about me and my work, visit my [Portfolio](https://ismaelrsousa.github.io/novo-portfolio) website (in development)
