@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **_Ismael Sousa_**
 
-#### I'm Full Stack Analyst at [T2S](https://www.t2s.com.br/)
+#### I'm Full Stack Developer at [KBRTEC](https://www.kbrtec.com.br/)
 #### To know more about me and my work, visit my [Portfolio](https://ismaelrsousa.github.io/novo-portfolio) website (in development)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=round-square&logo=Github&logoColor=white&link=https://github.com/ismaelrsousa)](https://github.com/ismaelrsousa)
