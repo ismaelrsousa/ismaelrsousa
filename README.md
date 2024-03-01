@@ -25,12 +25,3 @@
 [![VueJS](https://img.shields.io/badge/-VueJS-42b883?style=round-square&logo=vuedotjs&logoColor=ffffff)]([https://angular.io/](https://vuejs.org/))
 [![Git](https://img.shields.io/badge/-Git-%23e84e31?style=round-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
 
----
-
-### :books: Learning
-
-#### I'm currently learning:
-- [![Angular](https://img.shields.io/badge/-Angular-dd0031?style=round-square&logo=angular&logoColor=ffffff)](https://angular.io/)
-- [![.NET](https://img.shields.io/badge/-.NET-5027d5?style=round-square&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/)
-
----
